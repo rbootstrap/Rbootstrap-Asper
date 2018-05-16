@@ -21,7 +21,6 @@ To begin using this template, choose one of the following options to get started
 * HTML Validated
 * Tested Across Firefox, Chrome, Safari, IE10, IE11, Edge
 * Working PHP Contact Form
-* Code Tested in Bootlint
 * High Resolution
 * Easily Customizable
 
